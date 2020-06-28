@@ -1,4 +1,4 @@
-# wuzywute.github.io
+# slushpile.github.io
 
 6/27/2020
 
