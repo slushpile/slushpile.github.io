@@ -1,0 +1,134 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Code</title>
+</head>
+
+<body>
+	
+	<h1>
+	
+	Code
+		
+	</h1>
+	
+	<p>
+	
+	I was going to explain in detail what this code does and send it off to an agent ... the same agent i am going to sell all my shit to ... she doesn't have a choice in the matter she's my agent
+	
+	</p>
+	
+	<code>
+	
+	
+	<html><body><pre>
+<span style="color: #33997E;">void</span> <span style="color: #006699;"><b>setup</b></span>() {
+&nbsp;&nbsp;<span style="color: #006699;">size</span>(400,400);
+}
+
+<span style="color: #33997E;">void</span> <span style="color: #006699;"><b>draw</b></span>() {
+&nbsp;&nbsp;<span style="color: #006699;">background</span>(0,0);
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #669900;">for</span> (<span style="color: #E2661A;">int</span> i = 0; i &lt;= 400; i = i+20) {
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #669900;">for</span>(<span style="color: #E2661A;">int</span> j = 0; j &lt;= 400; j = j+20) {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #E2661A;">int</span> x = <span style="color: #D94A7A;">mouseX</span>/50;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">rect</span>(i,j,20,20, x);
+&nbsp;&nbsp;&nbsp;&nbsp;}
+&nbsp;&nbsp;}
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+}
+
+</pre>
+		
+		<code>
+		
+		
+		<html><body><pre>
+<span style="color: #33997E;">void</span> <span style="color: #006699;"><b>setup</b></span>() {
+&nbsp;&nbsp;<span style="color: #006699;">size</span>(400,400);
+}
+
+<span style="color: #33997E;">void</span> <span style="color: #006699;"><b>draw</b></span>() {
+&nbsp;&nbsp;<span style="color: #006699;">background</span>(0);
+&nbsp;&nbsp;
+&nbsp;<span style="color: #669900;">if</span> (<span style="color: #D94A7A;">mouseX</span> &lt; 200) {
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;<span style="color: #006699;">fill</span>(150);
+&nbsp;&nbsp;&nbsp;<span style="color: #006699;">rect</span>(0,0,200,400);
+&nbsp;&nbsp;&nbsp;
+&nbsp;}&nbsp;<span style="color: #669900;">else</span> <span style="color: #669900;">if</span> (<span style="color: #D94A7A;">mouseX</span> &gt; 200) {
+&nbsp;&nbsp;&nbsp;<span style="color: #006699;">fill</span>(150);
+&nbsp;&nbsp;&nbsp;<span style="color: #006699;">rect</span>(200,0,200,400);
+&nbsp;&nbsp;&nbsp;
+&nbsp;}
+&nbsp;&nbsp;
+}
+
+</pre></body></html>
+			
+		
+		</code>
+		
+		<code>
+		
+		<html><body><pre>
+<span style="color: #33997E;">void</span> <span style="color: #006699;"><b>setup</b></span>() {
+&nbsp;&nbsp;<span style="color: #006699;">size</span>(400,400);
+}
+
+<span style="color: #33997E;">void</span> <span style="color: #006699;"><b>draw</b></span>() {
+&nbsp;&nbsp;<span style="color: #006699;">background</span>(0,0);
+&nbsp;&nbsp;<span style="color: #E2661A;">int</span> a = <span style="color: #D94A7A;">mouseX</span>;
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">textSize</span>(32);
+&nbsp;&nbsp;<span style="color: #006699;">text</span>(a,200,200);
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+}
+
+</pre></body></html>
+		
+		</code>
+		
+		<code>
+		
+		
+		<html><body><pre>
+<span style="color: #33997E;">void</span> <span style="color: #006699;"><b>setup</b></span>() {
+&nbsp;&nbsp;<span style="color: #006699;">size</span>(400,400);
+&nbsp;&nbsp;
+}
+
+<span style="color: #33997E;">void</span> <span style="color: #006699;"><b>draw</b></span>() {
+&nbsp;&nbsp;<span style="color: #006699;">textSize</span>(20);
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">text</span>(<span style="color: #7D4793;">&quot;PRESS ZERO&quot;</span>,200,220);
+&nbsp;&nbsp;<span style="color: #669900;">if</span> (<span style="color: #D94A7A;">keyPressed</span>) {
+&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #669900;">if</span> (<span style="color: #D94A7A;">key</span> == <span style="color: #7D4793;">&apos;0&apos;</span>) {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">textSize</span>(30);
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">text</span>(0, 200, 200);
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;}
+&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;}
+&nbsp;&nbsp;
+}
+
+</pre></body></html>
+		
+		</code>
+		
+		
+		
+		
+		</body></html>
+	
+	
+	
+	</code>
+</body>
+</html>
