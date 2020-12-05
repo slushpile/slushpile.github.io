@@ -11,15 +11,18 @@
 #right {
 	float: left; 
 	width: 21%;
-	padding: 1%;
-	border: dotted; 
+	padding: 0%; 
 	margin: 1%;
 }
 
 #pin {
 	float: left; 
 	width: 21%;
-	border: dotted;
 	margin: 1%;
-	padding: 1%;
+	padding: 0%;
+}
+
+body {
+	width: 80%;
+	margin: auto;
 }
