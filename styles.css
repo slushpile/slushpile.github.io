@@ -1,14 +1,23 @@
 #left {
 	float: left;
-	width: 79%;
+	width: 50%;
+	padding: 1%;
+	border: dotted;
+	margin: 1%;
 }
 
 #right {
 	float: left;
-	width: 19%;
+	width: 24%;
+	padding: 1%;
+	border: dotted;
+	margin: 1%;
 }
 
 #pin {
 	float: left;
-	width: 1.5%
+	width: 10%;
+	border: dotted;
+	margin: 1%;
+	padding: 1%;
 }
