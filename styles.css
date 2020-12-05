@@ -1,7 +1,7 @@
 
 #left {
 	float: left;
-	width: 40%;  
+	width: 45%;  
 	padding: 1%;
 	border: dotted;
 	margin: 1%;
@@ -10,7 +10,7 @@
 
 #right {
 	float: left; 
-	width: 15%;
+	width: 21%;
 	padding: 1%;
 	border: dotted; 
 	margin: 1%;
@@ -18,7 +18,7 @@
 
 #pin {
 	float: left; 
-	width: 15%;
+	width: 21%;
 	border: dotted;
 	margin: 1%;
 	padding: 1%;
