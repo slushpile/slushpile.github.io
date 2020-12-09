@@ -31,3 +31,8 @@ body {
 	margin: auto;
 }
 
+.image {
+	padding: 1%;
+	margin: 1%;
+	border-style: dotted;
+}
