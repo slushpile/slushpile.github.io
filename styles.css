@@ -1,7 +1,7 @@
 
 #left {
 	float: left;
-	width: 50%;  
+	width: 49%;  
 	padding: 1%; 
 	margin: 1%;
 	border-style: dotted;
@@ -10,7 +10,7 @@
 
 #right {
 	float: left; 
-	width: 19%; 
+	width: 17%; 
 	padding: 1%;  
 	margin: 1%;
 	border-style: dotted;
