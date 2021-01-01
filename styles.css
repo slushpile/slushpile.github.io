@@ -1,4 +1,4 @@
-
+/*
 #left {
 	float: left;
 	width: 49%;  
@@ -35,4 +35,19 @@ body {
 	padding: 1%;
 	margin: 1%;
 	border-style: dotted;
+}
+*/
+
+#left {
+	float: left;
+	margin: 1%;
+	padding: 1%;
+	width: 42%
+}
+
+#right {
+	float: left;
+	margin : 1%;
+	padding: 1%;
+	width: 42%;
 }
