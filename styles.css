@@ -40,16 +40,16 @@ body {
 
 #left {
 	float: left;
-	margin: 1%;
-	padding: 1%;
-	width: 42%;
-	border-style: inset;
+	margin: 3%;
+	padding: 3%;
+	width: 40%;
+	border-style: double;
 }
 
 #right {
 	float: left;
-	margin : 1%;
-	padding: 1%;
-	width: 42%;
-	border-style: inset;
+	margin : 3%;
+	padding: 3%;
+	width: 40%;
+	border-style: double;
 }
