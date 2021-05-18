@@ -39,7 +39,7 @@
 	float: left;
 	padding: 1%;
 	margin: 1%;
-	width: 25%;
+	width: 29%;
 	border-style: double;
 }
 
@@ -47,13 +47,6 @@
 	float: left;
 	padding: 1%;
 	margin: 1%;
-	width: 25%;
-	border-style: double;
-}
-#righty {
-	float: left;
-	margin: 1%;
-	padding: 1%;
-	width: 25%;
+	width: 58%;
 	border-style: double;
 }
