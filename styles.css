@@ -50,3 +50,7 @@
 	width: 42%;
 	border-style: double;
 }
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+}
