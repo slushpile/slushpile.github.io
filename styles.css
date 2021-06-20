@@ -28,3 +28,11 @@ body {
 table, th, td {
   border: 1px solid black;
 }
+
+#Masthead {
+	
+	font-family: 'Catamaran', sans-serif;
+	font-size: xxx-large;
+	text-align: center;
+	
+}
