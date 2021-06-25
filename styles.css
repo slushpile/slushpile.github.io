@@ -4,7 +4,6 @@
 	padding: 1%;
 	margin: 1%;
 	width: 42%;
-	border-style: double;
 }
 
 #right {
@@ -17,6 +16,7 @@
 
 body {
 	font-family: Arial;
+	background-color: yellow;
 }
 
 
