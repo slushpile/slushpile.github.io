@@ -29,7 +29,7 @@ table, th, td {
   border: 1px solid black;
 }
 
-#Masthead {
+.Masthead {
 	
 	font-family: 'Catamaran', sans-serif;
 	font-size: 19pt;
