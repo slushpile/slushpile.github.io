@@ -34,6 +34,16 @@ caveat you do not get the disqus comments if you work with your own fork it will
 i can probably send you a file if you want to upload it to your own but i don't know if this would work i want that hot website 
 idea on more than my own website but just copy and paste it the rest is garbage
 
+2/11/2023
+
+i successfully downloaded the .xml file that is my disqus archiving file format and now i have the entire 
+download on my download drive and i can now completely copy my website WHAT I AM SAYING! is that if you want to
+buy my main website as a starting kit like if you want to have a design fleshed out so you can immediately
+begin collecting traffic like you can copy my website flawlessly and we can work something out if you want to
+try out a new hobby i would not recommend this unless you have pretty decent typing skills and know your way around
+a computer like if you work in an office and do office work professionally like this is a career option
+for a consummate professional if you accidentally saw this it might look good but move along
+
 
 
 
