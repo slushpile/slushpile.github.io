@@ -44,6 +44,26 @@ try out a new hobby i would not recommend this unless you have pretty decent typ
 a computer like if you work in an office and do office work professionally like this is a career option
 for a consummate professional if you accidentally saw this it might look good but move along
 
+2/12/2023
+
+I had a perfect design when i auto linked to to a google document that is the perfect design
+but it's not as good for github as i would like it to be so consider auto linking to a google document
+with comments on per the link or something i don't know it's really mushy in terms of logic this
+but i have github i don't know i'm confused so i'm just doing some A B testing to see which works the 
+best
+
+i'm done basically with content production i just have to figure out how to produce a relationship
+with someone that would advertise at the top of my site so that advertisers are involved
+in my magazine like i have a magazine i need like 400 people to advertise on my website at the top
+every month for $300 each and that's my dream that's my reason for doing all this is to get that
+advertising dollar with like six yards of space dedicated to advertising 
+
+http://www.milliondollarhomepage.com/
+
+i'm doing that basically but not like an evil sadistic cud fuck like i want valuable advertising
+like i want to take the super bowl ads and incorporate them into my website with 200 more and then by the time you
+stop scrolling through ads you feel like it was worth it
+
 
 
 
