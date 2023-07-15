@@ -14,4 +14,41 @@
 	font-size: 62pt;
 	
 }
+
+
+
+
+
+
+@charset "utf-8";
+/* CSS Document */
+
+#container {
+    width: 50%;
+    /* Change this value to customize the content area*/
+    margin: 0 auto;
+}
+
+h1 {
+	font-size:2em;
+}
+
+.bucket {
+	border:solid;
+	padding: 15%;
+}
+
+.link {
+  text-align: center;
+  padding: 5%;
+  border: solid;
+  margin-top: 2%;
+  margin-bottom: 2%;  
+  border-radius: 25px;
+}
+
+a {
+	font-size: 1.5em;
+	color: black;
+}
 	
