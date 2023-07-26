@@ -47,6 +47,29 @@ a {
 }
 
 
+#left1 {
+	float: left;
+	width: 30%;  
+	padding: 1%;
+	border: dotted;
+	margin: 1%;
+}
+
+
+#right1 {
+	float: left; 
+	width: 21%;
+	padding: 0%; 
+	margin: 1%;
+}
+
+#pin {
+	float: left; 
+	width: 21%;
+	margin: 1%;
+	padding: 0%;
+}
+
 
 
 
