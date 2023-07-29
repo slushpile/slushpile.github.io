@@ -1,0 +1,862 @@
+# slushpile.github.io
+
+6/27/2020
+
+this is a website dedicated to ideally setting me up with a work place on a limited budget 
+
+i write on a regular routine and i need a place to store snippets of writing
+
+ideally you can fork this project and add comments and participate in an expert discussion forum
+
+there is a need for me to express myself and i can only do it with a desktop computer
+
+i appreciate the web hosting and i can put a portfolio together here and find work
+
+my ideal website is a website that is just a content directory with no index file but i don't want to set that trend
+
+so i'll work on some css zen garden type work 
+
+i have to develop the content first so it's just going to be bare bones for awhile 
+
+
+5/2/2022
+
+now it's done. you can access the book on this website now and you can make edits for yourself
+and print your own version of the book you can take my book make a 15% change to the book add a character
+change a setting rewrite a monologue you can do something like that and then you can sell your own copy of 
+the book as your own version i did some community work on the internet 
+
+it's pretty straight right now
+
+i was going to back up these files
+
+caveat you do not get the disqus comments if you work with your own fork it will disappear because the URL is different
+i can probably send you a file if you want to upload it to your own but i don't know if this would work i want that hot website 
+idea on more than my own website but just copy and paste it the rest is garbage
+
+2/11/2023
+
+i successfully downloaded the .xml file that is my disqus archiving file format and now i have the entire 
+download on my download drive and i can now completely copy my website WHAT I AM SAYING! is that if you want to
+buy my main website as a starting kit like if you want to have a design fleshed out so you can immediately
+begin collecting traffic like you can copy my website flawlessly and we can work something out if you want to
+try out a new hobby i would not recommend this unless you have pretty decent typing skills and know your way around
+a computer like if you work in an office and do office work professionally like this is a career option
+for a consummate professional if you accidentally saw this it might look good but move along
+
+2/12/2023
+
+I had a perfect design when i auto linked to to a google document that is the perfect design
+but it's not as good for github as i would like it to be so consider auto linking to a google document
+with comments on per the link or something i don't know it's really mushy in terms of logic this
+but i have github i don't know i'm confused so i'm just doing some A B testing to see which works the 
+best
+
+i'm done basically with content production i just have to figure out how to produce a relationship
+with someone that would advertise at the top of my site so that advertisers are involved
+in my magazine like i have a magazine i need like 400 people to advertise on my website at the top
+every month for $300 each and that's my dream that's my reason for doing all this is to get that
+advertising dollar with like six yards of space dedicated to advertising 
+
+http://www.milliondollarhomepage.com/
+
+i'm doing that basically but not like an evil sadistic cud fuck like i want valuable advertising
+like i want to take the super bowl ads and incorporate them into my website with 200 more and then by the time you
+stop scrolling through ads you feel like it was worth it
+
+University of Cincinnati General Studies Program Curriculum
+
+ 
+
+
+
+Year One
+
+Cincinnati
+
+Year Two
+
+London
+
+Year Three
+
+Puerta de la Cruz
+
+Year Four
+
+Tokyo
+
+Year Five
+
+Sydney
+
+Year Six
+
+Rio de Janeiro
+
+Year Seven
+
+Amundsen-Scott South Pole Station
+
+Year Eight
+
+Cincinnati
+
+Year Nine
+
+Cincinnati
+
+Year Ten
+
+Cincinnati
+
+Year Eleven
+
+Cincinnati
+
+Year Twelve
+
+Cincinnati
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Year One : Cincinnati
+
+First Trimester Begins August 15th
+
+Class Begins @ 2pm on August 15th
+
+120 Days
+
+Class Ends @ 2pm on December 13th
+
+First Trimester Ends December 13th
+
+1st Quarter of First Trimester
+
+Compete with Classmates for Most Whole Seconds of Invisible Captured
+
+2nd Quarter of First Trimester
+
+Compete with Classmates for Most Static Frames Captured
+
+3rd Quarter of First Trimester
+
+Compete with Classmates for Most Sets of Sequential Frames Captured
+
+4th Quarter of First Trimester
+
+Compete with Classmates for Most Complete (Word) Captured
+
+
+Second Trimester Begins January 12th
+
+Class Begins @ 2pm January 12th
+
+110 Days
+
+Class Ends @ 2pm on May 2nd
+
+Second Trimester Ends May 2nd
+
+By 2:01pm on January 12th students wishing to continue their studies will have successfully typed HTML into the http://www.bing.com search engine. Students that do not accomplish this task are removed from the course.
+
+ 
+
+ 
+
+
+
+Third Trimester Begins May 11th
+
+Class Begins @ 2pm May 11th
+
+89 Days
+
+Class Ends @ 2pm on August 8th
+
+Third Trimester Ends August 8th
+
+By 2:01pm on May 11th students wishing to continue their studies will have successfully typed CSS into the http://www.bing.com search engine. Students that do not accomplish this task are removed from the course.
+
+
+
+Year Two : London
+
+First Trimester Begins August 15th
+
+Class Begins @ 2pm on August 15th
+
+120 Days
+
+Class Ends @ 2pm on December 13th
+
+First Trimester Ends December 13th
+
+1st Quarter of First Trimester
+
+First Fourth of Students Present their CSS Styled Work for Critique
+
+2nd Quarter of First Trimester
+
+Second Fourth of Students Present their CSS Styled Work for Critique
+
+3rd Quarter of First Trimester
+
+Third Fourth of Students Present their CSS Styled Work for Critique
+
+4th Quarter of First Trimester
+
+Fourth Fourth of Students Present their CSS Styled Work for Critique
+
+
+
+Second Trimester Begins January 12th
+
+Class Begins @ 2pm January 12th
+
+110 Days
+
+Class Ends @ 2pm on May 2nd
+
+Second Trimester Ends May 2nd
+
+By 2:01pm on January 12th students wishing to continue their studies will have successfully typed            | Invisible | into the http://www.bing.com search engine. Students that do not accomplish this task are removed from the course.
+
+
+
+Third Trimester Begins May 11th
+
+Class Begins @ 2pm May 11th
+
+89 Days
+
+Class Ends @ 2pm on August 8th
+
+Third Trimester Ends August 8th
+
+By 2:01pm on May 11th students wishing to continue their studies will have successfully typed | Static | into the http://www.bing.com search engine. Students that do not accomplish this task are removed from the course.
+
+
+
+Year Three : Puerta de La Cruz
+
+First Trimester Begins August 15th
+
+Class Begins @ 2pm on August 15th
+
+120 Days
+
+Class Ends @ 2pm on December 13th
+
+First Trimester Ends December 13th
+
+1st Quarter of First Trimester
+
+First Half of Students Present their Findings on | Invisible | for Critique
+
+2nd Quarter of First Trimester
+
+Second Half of Students Present their Findings on | Invisible | for Critique
+
+3rd Quarter of First Trimester
+
+First Half of Students Present their Findings on | Static | for Critique
+
+4th Quarter of First Trimester
+
+Second Half of Students Present their Findings on | Static | for Critique
+
+ 
+
+
+
+Second Trimester Begins January 12th
+
+Class Begins @ 2pm January 12th
+
+110 Days
+
+Class Ends @ 2pm on May 2nd
+
+Second Trimester Ends May 2nd
+
+By 2:01pm on January 12th students wishing to continue their studies will have successfully typed            | Sequential | into the http://www.bing.com search engine. Students that do not accomplish this task are removed from the course.
+
+
+
+Third Trimester Begins May 11th
+
+Class Begins @ 2pm May 11th
+
+89 Days
+
+Class Ends @ 2pm on August 8th
+
+Third Trimester Ends August 8th
+
+By 2:01pm on May 11th students wishing to continue their studies will have successfully typed ( Word ) into the http://www.bing.com search engine. Students that do not accomplish this task are removed from the course.
+
+
+
+Year Four : Tokyo
+
+First Trimester Begins August 15th
+
+Class Begins @ 2pm on August 15th
+
+120 Days
+
+Class Ends @ 2pm on December13th
+
+First Trimester Ends December 13th
+
+1st Quarter of First Trimester
+
+First Half of Students Present their Findings on | Sequential | for Critique
+
+2nd Quarter of First Trimester
+
+Second Half of Students Present their Findings on | Sequential | for Critique
+
+3rd Quarter of First Trimester
+
+First Half of Students Present their Findings on ( Word ) for Critique
+
+4th Quarter of First Trimester
+
+Second Half of Students Present their Findings on ( Word ) for Critique
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Second Trimester Begins January 12th
+
+Class Begins @ 2pm January 12th
+
+110 Days
+
+Class Ends @ 2pm on May 2nd
+
+Second Trimester Ends May 2nd
+
+By 2:01pm on January 12th students wishing to continue their studies will have successfully typed            | Portfolio | into the http://www.bing.com search engine. Students that do not accomplish this task are removed from the course.
+
+
+
+Third Trimester Begins May 11th
+
+Class Begins @ 2pm May 11th
+
+89 Days
+
+Class Ends @ 2pm on August 8th
+
+Third Trimester Ends August 8th
+
+By 2:01pm on May 11th students wishing to continue their studies will have successfully typed                 | Microsoft | into the http://www.bing.com search engine. Students that do not accomplish this task are removed from the course.
+
+
+
+Year Five : Sydney
+
+First Trimester Begins August 15th
+
+Class Begins @ 2pm on August 15th
+
+120 Days
+
+Class Ends @ 2pm on December 13th
+
+First Trimester Ends December 13th
+
+1st Quarter of First Trimester
+
+First Half of Students Present their Findings on | Portfolio | for Critique
+
+2nd Quarter of First Trimester
+
+Second Half of Students Present their Findings on | Portfolio | for Critique
+
+3rd Quarter of First Trimester
+
+First Half of Students Present their Findings on | Microsoft | for Critique
+
+4th Quarter of First Trimester
+
+Second Half of Students Present their Findings on | Microsoft | for Critique
+
+
+
+Second Trimester Begins January 12th
+
+Class Begins @ 2pm January 12th
+
+110 Days
+
+Class Ends @ 2pm on May 2nd
+
+Second Trimester Ends May 2nd
+
+By 2:01pm on January 12th students wishing to continue their studies will have successfully typed            | Wolfram Alpha | into the http://www.bing.com search engine. Students that do not accomplish this task are removed from the course.
+
+
+
+Third Trimester Begins May 11th
+
+Class Begins @ 2pm May 11th
+
+89 Days
+
+Class Ends @ 2pm on August 8th
+
+Third Trimester Ends August 8th
+
+By 2:01pm on May 11th students wishing to continue their studies will have successfully typed                 | Webcam Toy | into the http://www.bing.com search engine. Students that do not accomplish this task are removed from the course.
+
+
+
+Year Six : Rio de Janeiro
+
+First Trimester Begins August 15th
+
+Class Begins @ 2pm on August 15th
+
+120 Days
+
+Class Ends @ 2pm on December 13th
+
+First Trimester Ends December 13th
+
+1st Half of First Trimester
+
+First Half of Students Present their Findings on | Wolfram Alpha Contrasted with Webcam Toy | for Critique
+
+2nd Half of First Trimester
+
+Second Half of Students Present their Findings on | Wolfram Alpha Contrasted with Webcam Toy | for Critique
+
+
+
+Second Trimester Begins January 12th
+
+Class Begins @ 2pm January 12th
+
+110 Days
+
+Class Ends @ 2pm on May 2nd
+
+Second Trimester Ends May 2nd
+
+By 2:01pm on January 12th students wishing to continue their studies will have successfully typed            | 1996 | into the http://www.bing.com search engine. Students that do not accomplish this task are removed from the course.
+
+
+
+Third Trimester Begins May 11th
+
+Class Begins @ 2pm May 11th
+
+89 Days
+
+Class Ends @ 2pm on August 8th
+
+Third Trimester Ends August 8th
+
+By 2:01pm on May 11th students wishing to continue their studies will have successfully typed                 | Antarctica | into the http://www.bing.com search engine. Students that do not accomplish this task are removed from the course.
+
+
+
+Year Seven : Amundsen-Scott South Pole Station
+
+First Trimester Begins August 15th
+
+Class Begins @ 2pm on August 15th
+
+120 Days
+
+Class Ends @ 2pm on December 13th
+
+First Trimester Ends December 13th
+
+1st Half of First Trimester
+
+Students Present their Findings on | 1996 | for Critique
+
+2nd Half of First Trimester
+
+Students Present their Findings on | Antarctica | for Critique
+
+
+
+Second Trimester Begins January 12th
+
+Class Begins @ 2pm January 12th
+
+110 Days
+
+Class Ends @ 2pm on May 2nd
+
+Second Trimester Ends May 2nd
+
+By 2:01pm on January 12th students wishing to continue their studies will have successfully typed            | Cincinnati | into the http://www.bing.com search engine. Students that do not accomplish this task are removed from the course.
+
+
+
+Third Trimester Begins May 11th
+
+Class Begins @ 2pm May 11th
+
+89 Days
+
+Class Ends @ 2pm on August 8th
+
+Third Trimester Ends August 8th
+
+By 2:01pm on May 11th students wishing to continue their studies will have successfully typed                 | United Dairy Farmers| into the http://www.bing.com search engine. Students that do not accomplish this task are removed from the course.
+
+
+
+ 
+
+ 
+
+Year Eight : Cincinnati
+
+First Trimester Begins August 15th
+
+Class Begins @ 2pm on August 15th
+
+120 Days
+
+Class Ends @ 2pm on December 13th
+
+First Trimester Ends December 13th
+
+1st Half of First Trimester
+
+Students Present their Findings on | Cincinnati | for Critique
+
+2nd Half of First Trimester
+
+Students Present their Findings on | United Dairy Farmers | for Critique
+
+
+
+Second Trimester Begins January 12th
+
+Class Begins @ 2pm January 12th
+
+110 Days
+
+Class Ends @ 2pm on May 2nd
+
+Second Trimester Ends May 2nd
+
+By 2:01pm on January 12th students wishing to continue their studies will have successfully typed            | Drafting | into the http://www.bing.com search engine. Students that do not accomplish this task are removed from the course.
+
+
+
+Third Trimester Begins May 11th
+
+Class Begins @ 2pm May 11th
+
+89 Days
+
+Class Ends @ 2pm on August 8th
+
+Third Trimester Ends August 8th
+
+By 2:01pm on May 11th students wishing to continue their studies will have successfully typed                 | Hue | into the http://www.bing.com search engine. Students that do not accomplish this task are removed from the course.
+
+
+
+Year Nine : Cincinnati
+
+First Trimester Begins August 15th
+
+Class Begins @ 2pm on August 15th
+
+120 Days
+
+Class Ends @ 2pm on December 13th
+
+First Trimester Ends December 13th
+
+1st Half of First Trimester
+
+Students Present their Findings on | Drafting | for Critique
+
+2nd Half of First Trimester
+
+Students Present their Findings on | Hue | for Critique
+
+
+
+Second Trimester Begins January 12th
+
+Class Begins @ 2pm January 12th
+
+110 Days
+
+Class Ends @ 2pm on May 2nd
+
+Second Trimester Ends May 2nd
+
+By 2:01pm on January 12th students wishing to continue their studies will have successfully typed            | Drafting | into the http://www.duckduckgo.com search engine. Students that do not accomplish this task are removed from the course.
+
+
+
+Third Trimester Begins May 11th
+
+Class Begins @ 2pm May 11th
+
+89 Days
+
+Class Ends @ 2pm on August 8th
+
+Third Trimester Ends August 8th
+
+By 2:01pm on May 11th students wishing to continue their studies will have successfully typed                 | Hue | into the http://www.duckduckgo.com search engine. Students that do not accomplish this task are removed from the course.
+
+
+
+Year Ten : Cincinnati
+
+First Trimester Begins August 15th
+
+Class Begins @ 2pm on August 15th
+
+120 Days
+
+Class Ends @ 2pm on December 13th
+
+First Trimester Ends December 13th
+
+1st Half of First Trimester
+
+Students Present their Findings on | Drafting | for Critique
+
+2nd Half of First Trimester
+
+Students Present their Findings on | Hue | for Critique
+
+
+
+Second Trimester Begins January 12th
+
+Class Begins @ 2pm January 12th
+
+110 Days
+
+Class Ends @ 2pm on May 2nd
+
+Second Trimester Ends May 2nd
+
+By 2:01pm on January 12th students wishing to continue their studies will have successfully typed            | Syntax | into the http://www.bing.com search engine. Students that do not accomplish this task are removed from the course.
+
+
+
+Third Trimester Begins May 11th
+
+Class Begins @ 2pm May 11th
+
+89 Days
+
+Class Ends @ 2pm on August 8th
+
+Third Trimester Ends August 8th
+
+By 2:01pm on May 11th students wishing to continue their studies will have successfully typed                 | Punctuation | into the http://www.bing.com search engine. Students that do not accomplish this task are removed from the course.
+
+
+
+Year Eleven : Cincinnati
+
+First Trimester Begins August 15th
+
+Class Begins @ 2pm on August 15th
+
+120 Days
+
+Class Ends @ 2pm on December 13th
+
+First Trimester Ends December 13th
+
+1st Half of First Trimester
+
+Students Present their Findings on | Syntax | for Critique
+
+2nd Half of First Trimester
+
+Students Present their Findings on | Punctuation | for Critique
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Second Trimester Begins January 12th
+
+Class Begins @ 2pm January 12th
+
+110 Days
+
+Class Ends @ 2pm on May 2nd
+
+Second Trimester Ends May 2nd
+
+By 2:01pm on January 12th students wishing to continue their studies will have successfully typed            | Athletics | into the http://www.bing.com search engine. Students that do not accomplish this task are removed from the course.
+
+
+
+Third Trimester Begins May 11th
+
+Class Begins @ 2pm May 11th
+
+89 Days
+
+Class Ends @ 2pm on August 8th
+
+Third Trimester Ends August 8th
+
+By 2:01pm on May 11th students wishing to continue their studies will have successfully typed                 | Sportsmanship | into the http://www.bing.com search engine. Students that do not accomplish this task are removed from the course.
+
+
+
+Year Twelve : Cincinnati
+
+First Trimester Begins August 15th
+
+Class Begins @ 2pm on August 15th
+
+120 Days
+
+Class Ends @ 2pm on December 13th
+
+First Trimester Ends December 13th
+
+1st Half of First Trimester
+
+Students Present their Findings on | Athletics | for Critique
+
+2nd Half of First Trimester
+
+Students Present their Findings on | Sportsmanship | for Critique
+
+
+
+Second Trimester Begins January 12th
+
+Class Begins @ 2pm January 12th
+
+110 Days
+
+Class Ends @ 2pm on May 2nd
+
+Second Trimester Ends May 2nd
+
+By 2:01pm on January 12th students wishing to continue their studies will have successfully typed            | Independence | into the http://www.bing.com search engine. Students that do not accomplish this task are removed from the course.
+
+
+
+Third Trimester Begins May 11th
+
+Class Begins @ 2pm May 11th
+
+89 Days
+
+Class Ends @ 2pm on August 8th
+
+Third Trimester Ends August 8th
+
+By 2:01pm on May 11th students wishing to continue their studies will have successfully typed                 | Goodbye | into the http://www.bing.com search engine. Students that do not accomplish this task are removed from the course.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
