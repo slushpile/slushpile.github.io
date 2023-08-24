@@ -1,5 +1,11 @@
 #left {
 
-background-color: black;
+text-align: left;
 
+}
+
+#right {
+	
+	text-align: right;
+	
 }
