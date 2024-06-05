@@ -3,3 +3,9 @@
 
 https://slushpile.github.io 
 it's forkable you can fork it.  
+
+6:5:2024
+
+Purpose of this Website
+
+The purpose of this website is to become a living reference model for how a website can be and what it can look like easy to manage. This website is written entirely using HTML4 and there is no CSS on this website or Javascript or PHP or MYSQL and it's still a full stack endeavor. If you view the source code of this website you can get an idea of how it works but if you download the entire page with your browser you will find a replica of it in your destination save and you can then proceed to play with it and tug at it and poke it and figure out what it is because you might not know if you can muster the energy to build a website and that's what this website is for it's HTML at it's best and you'll see you can do it too.
